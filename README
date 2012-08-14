@@ -1,3 +1,9 @@
+This project intends to implement Axmock (http://code.google.com/p/axmock/) into Capture-HPC_NG.
+
+Below are instructions from the original Capture-HPC-NG project (https://github.com/CERT-Polska/HSN-Capture-HPC-NG).
+
+--------------------------------------------------------------------------------------------------------
+
 HoneySpider Network Capture-HPC NG source code repository.
 Project is released under GPL 2.0 license.
 
